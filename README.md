@@ -4,10 +4,8 @@ codeSync is a real-time code collaboration web application that allows multiple 
 
 ## Live Demo
 
-You can try out codeSync by visiting the [live demo](https://codeSync-324z.onrender.com). Create or join a room and start collaborating with others in real time!
-### DEMO VIDEO
-https://github.com/Yadvendra016/codeSync/assets/91756355/dadc9f09-ef24-4c73-aa43-223f7a817f9f
-
+You can try out codeSync by visiting the [live demo](https://codes-sync.vercel.app). Create or join a room and start collaborating with others in real time!
+ 
 ## Features
 
 - Create or join a virtual "room" by entering a room ID.
@@ -27,7 +25,7 @@ https://github.com/Yadvendra016/codeSync/assets/91756355/dadc9f09-ef24-4c73-aa43
 
 ## Usage
 
-1. Open the [codeSync live demo](https://codeSync-324z.onrender.com).
+1. Open the [codeSync live demo](https://codes-sync-vercel.app).
 2. Enter a Room ID or generate a new one.
 3. Set your username.
 4. Start collaborating with others in the same room.
