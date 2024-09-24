@@ -9,7 +9,7 @@ const server = http.createServer(app);
 
 const io = new Server(server);
 dotenv.config();//load dotenv config
-server.use(
+app.use(
   cors({
     origin:[ "http://localhost:8000", "http://localhost:5000","https://codes-sync.vercel.app/",""],//"*",  //FOR FRONTEND..//  methods: ["GET", "POST", "PUT", "DELETE"],..VVI..to entertain frontend req.[[http://localhost:3000]] -->:["http://localhost:3000","https://mystudynotion.vercel.app","https://study1-jlkmw7ckr-mohit1721s-projects.vercel.app"], --------------------------["https://mystudynotion.vercel.app"]  
     credentials: true,
