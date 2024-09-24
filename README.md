@@ -25,7 +25,7 @@ You can try out codeSync by visiting the [live demo](https://codes-sync.vercel.a
 
 ## Usage
 
-1. Open the [codeSync live demo](https://codes-sync-vercel.app).
+1. Open the [codeSync live demo](https://codes-sync.vercel.app).
 2. Enter a Room ID or generate a new one.
 3. Set your username.
 4. Start collaborating with others in the same room.
